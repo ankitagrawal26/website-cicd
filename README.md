@@ -88,7 +88,7 @@ On the main directory (website-cicd) create the following:
 ## XI.	Write the GitHub Actions workflow code
 
 You can get it here: 
-https://github.com/Silas-cloudspace/website-cicd/blob/main/.github/workflows/deploy-website.yaml
+https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/deploy-website.yaml
 
 ## XII.	Test the workflow
 
@@ -165,8 +165,8 @@ On the “terraform” directory run:
 Go to “.github/workflows” on VS code
 touch invalidate-cloudfront.yaml sync_s3.yaml 
 Add the following to them:
-•	https://github.com/Silas-cloudspace/website-cicd/blob/main/.github/workflows/sync_s3.yaml
-•	https://github.com/Silas-cloudspace/website-cicd/blob/main/.github/workflows/invalidate-cloudfront.yml
+•	https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/invalidate-cloudfront.yml
+•	https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/sync_s3.yaml
 
 Go to VS code
 Settings
