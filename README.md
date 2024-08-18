@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/84fdc0d9-4ed9-4df5-863d-4ef4abdd635a)
 
-## I.	Create and clone a git repository for BSL_test
+## I.	Create and clone a git repository
 
 You can name it “website-cicd” (you can also choose a different name).
 Add a README file
