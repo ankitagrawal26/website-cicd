@@ -163,10 +163,9 @@ On the “terraform” directory run:
 ## XX.	Implementing Invalidate CloudFront cache
 
 Go to “.github/workflows” on VS code
-touch invalidate-cloudfront.yaml sync_s3.yaml 
-Add the following to them:
-•	https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/invalidate-cloudfront.yml
-•	https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/sync_s3.yaml
+Add the following code into it: 
+https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/sync_s3.yaml
+https://github.com/Silas-cloudspace/website-cicd/blob/main/workflows/invalidate-cloudfront.yml
 
 Go to VS code
 Settings
